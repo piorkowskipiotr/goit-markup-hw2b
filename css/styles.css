@@ -1,0 +1,250 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap"
+rel="stylesheet">
+
+
+.heady{
+    background-color:white
+}
+
+
+.heady:hover{
+    background-color: yellow;
+}
+.footy{
+    background-color: black;
+    color: white;
+}
+
+.footy:hover {
+    background-color: yellow;
+    color:black;
+    
+}
+
+.link {
+    color:#2196F3;
+}
+
+
+.link2 {
+    color: #2196F3;
+}
+
+.link2:hover {
+    color: white;
+}
+.link3 {
+color: white;
+}
+
+.link3:hover {
+    color: black;
+}
+
+.link4{
+
+    color:black
+}
+
+.link5 {
+    color: black;
+}
+
+.link5:hover {
+    color: #2196F3;
+}
+
+
+
+
+.button{
+color: black;
+background-color: #F5F4FA;
+border-radius: 4px
+font-family: 'Roboto', Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 162%;
+cursor: pointer;
+
+}
+
+.button:hover {
+    background-color:#2196F3;
+    color:white;
+    border-radius: 4px
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 162%;
+    cursor: pointer;
+}
+
+.button2 {
+    color: black;
+    background-color: #2196F3;
+    border-radius: 4px 
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 188%;
+    cursor: pointer;
+
+}
+
+.button2:hover {
+    color: black;
+    background-color: white;
+    border-radius: 4px font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 188%;
+    cursor: pointer;
+}
+
+
+
+
+.text1{
+    font-family:'Roboto',Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    color: #212121;
+    list-style-type:none;
+    
+}
+
+.text2{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    color: #757575;
+    
+}
+
+
+.text3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 200%;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+
+
+.text4 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 188%;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.text5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+
+}
+
+
+
+.text6{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+
+letter-spacing: 0.03em;
+text-decoration-line: underline;
+
+color: rgba(255, 255, 255, 0.6);
+}
+
+
+.text7 {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter: 6%;
+    Align: Center;
+    color: #FFFFFF;
+
+}
+
+
+.text8 {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 16px;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+}
+
+
+.text9 {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 171%;
+        color: #757575;
+}
+
+
+
+.text10 {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+color: #212121;
+}
+
+.text11 {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+
+        color: #212121;
+}
+
+
+
+
+.text12 {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+    
+        color: #757575;
+}
+
+.section1 {
+background-color: #2F303A;
+
+}
