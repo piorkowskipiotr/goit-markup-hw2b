@@ -5,51 +5,56 @@ rel="stylesheet">
 
 
 .heady{
-    background-color:white
+    background-color:white;
+    text-decoration: none
 }
 
 
 .heady:hover{
-    background-color: yellow;
 }
 .footy{
     background-color: black;
     color: white;
+    text-decoration: none
 }
 
 .footy:hover {
-    background-color: yellow;
-    color:black;
+    
     
 }
 
 .link {
     color:#2196F3;
+    text-decoration: none
 }
 
 
 .link2 {
     color: #2196F3;
+    text-decoration: none
 }
 
 .link2:hover {
-    color: white;
+    
 }
 .link3 {
 color: white;
+text-decoration: none
 }
 
 .link3:hover {
-    color: black;
+    
 }
 
 .link4{
 
-    color:black
+    color:black;
+    text-decoration: none
 }
 
 .link5 {
     color: black;
+    text-decoration: none
 }
 
 .link5:hover {
@@ -83,7 +88,7 @@ cursor: pointer;
 }
 
 .button2 {
-    color: black;
+    color: white;
     background-color: #2196F3;
     border-radius: 4px 
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
@@ -95,13 +100,13 @@ cursor: pointer;
 }
 
 .button2:hover {
-    color: black;
+    /* color: black;
     background-color: white;
     border-radius: 4px font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 16px;
     font-weight: 700;
     line-height: 188%;
-    cursor: pointer;
+    cursor: pointer; */
 }
 
 
@@ -114,6 +119,7 @@ cursor: pointer;
     line-height: 16.41px;
     color: #212121;
     list-style-type:none;
+    text-decoration: none
     
 }
 
@@ -123,6 +129,7 @@ cursor: pointer;
     font-weight: 500;
     line-height: 16.41px;
     color: #757575;
+    text-decoration: none
     
 }
 
@@ -156,6 +163,7 @@ cursor: pointer;
     line-height: 171%;
     letter-spacing: 0.03em;
     color: #FFFFFF;
+    text-decoration: none
 
 }
 
@@ -246,5 +254,10 @@ color: #212121;
 
 .section1 {
 background-color: #2F303A;
+
+}
+
+.back_sec {
+background-color: #F5F4FA
 
 }
