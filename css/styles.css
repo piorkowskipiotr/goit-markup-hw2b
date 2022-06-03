@@ -19,7 +19,7 @@ rel="stylesheet">
 }
 
 .footy:hover {
-    
+    text-decoration: none
     
 }
 
@@ -62,6 +62,16 @@ text-decoration: none
 }
 
 
+.link6 {
+
+    color: white;
+    text-decoration: none
+}
+
+
+address{
+font-style: normal
+}
 
 
 .button{
@@ -260,4 +270,9 @@ background-color: #2F303A;
 .back_sec {
 background-color: #F5F4FA
 
+}
+
+.inline{
+
+   display: inline; 
 }
