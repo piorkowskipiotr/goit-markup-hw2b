@@ -253,6 +253,10 @@ color: #212121;
         color: #212121;
 }
 
+.noDots {
+list-style: none
+
+}
 
 
 
